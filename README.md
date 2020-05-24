@@ -17,8 +17,17 @@ This portfolio is a compilation of notebooks which I created for Data Science re
 - This is my project show how the right [visualization](https://github.com/chaleedata/Analysis-Spotify-Trend-by-Lee_pg) 
 
 ## 📙  Pandas Tutorial
-- Most question to ask candidate who apply data science career is What tool you ever use such as pandas?
-After reading (and practising) this tutorial you will learn how to:
+Most question to ask a candidate who apply data science career is What tool you ever use such as pandas?
+After reading (and practicing) this tutorial you will learn how to:
+  - Create, add, remove and rename columns
+  - Read, select and filter data
+  - Retrieve statistics for data
+  - Manipulate data
+  - Sort and group data
+  - Case study
+
+📊 Visualizations with Seaborn
+
 
 
 
