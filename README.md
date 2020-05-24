@@ -18,7 +18,7 @@ This portfolio is a compilation of notebooks which I created for Data Science re
 
 ## 📙  Pandas Tutorial
 Most question to ask a candidate who apply data science career is What tool you ever use such as pandas?
-After reading (and practicing) this tutorial you will learn how to:
+After reading (and practicing) this tutorial you will learn how to:[link](https://github.com/chaleedata/Practice-Pandas-Everyday)
   - Create, add, remove and rename columns
   - Read, select and filter data
   - Retrieve statistics for data
