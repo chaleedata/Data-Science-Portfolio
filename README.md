@@ -3,7 +3,8 @@
 
 This practice is a compilation of notebooks which I created for Data Science related tasks like Tutorials, Exploratory Data Analysis, and Machine Learning.
 
-## 🔥 First project [Investigate DATA](https://github.com/chaleedata/Investigate-Gun-dataset) show syntax and process clean data beginner must to know.
+## 🔥 First project [Investigate DATA](https://github.com/chaleedata/Investigate-Gun-dataset)
+- show syntax and process clean data beginner must to know.
 
 
  ## 😀 Exploratory Data Analysis for the popular Battle Royale game PUBG
