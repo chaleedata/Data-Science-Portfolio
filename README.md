@@ -1,5 +1,5 @@
-# Data-Science-Practice
-# Data Science Practice by Chalee Cheappimolchai
+# Data-Science-Portfolio
+# Data Science Portfolio by Chalee Cheappimolchai
 
 This practice is a compilation of notebooks which I created for Data Science related tasks like Tutorials, Exploratory Data Analysis, and Machine Learning.
 
