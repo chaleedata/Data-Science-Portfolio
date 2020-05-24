@@ -4,4 +4,4 @@
 This practice is a compilation of notebooks which I created for Data Science related tasks like Tutorials, Exploratory Data Analysis, and Machine Learning.
 
 😀Exploratory Data Analysis for the popular Battle Royale game PUBG
-This is tutorial [](https://www.kaggle.com/chaleecheappimolchai/the-art-of-eda) show c
+This is tutorial [sdsdsd](https://www.kaggle.com/chaleecheappimolchai/the-art-of-eda) show c
